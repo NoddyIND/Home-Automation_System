@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "484590585411",
+    "firebase_url": "https://home-automation-chat-server.firebaseio.com",
+    "project_id": "home-automation-chat-server",
+    "storage_bucket": "home-automation-chat-server.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484590585411:android:7c3a41bbcedc7b43be36f6",
+        "android_client_info": {
+          "package_name": "com.avasyam.homeautomation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484590585411-i9anckif1oaauo47n4gtquehkukgc0dh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFFI2HaTF0-BHMlhMpsBp2vx19g_5kxCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484590585411-1ao9l0thq31oojesc2gfa36ob24rgiet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
